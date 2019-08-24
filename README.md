@@ -1,1 +1,3 @@
-# compare-remover
+ 
+# installtion :
+composer require webgate/module-compareremover
