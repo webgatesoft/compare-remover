@@ -8,6 +8,10 @@
         "OSL-3.0",
         "AFL-3.0"
     ],
+       "require": {
+            "webgate/module-webgatebase":"1.*" 
+       }
+  
     "autoload": {
         "files": [
             "registration.php"
