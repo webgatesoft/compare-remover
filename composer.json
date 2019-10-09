@@ -10,7 +10,7 @@
     ],
        "require": {
             "webgate/module-webgatebase":"1.*" 
-       }
+       },
   
     "autoload": {
         "files": [
